@@ -1,4 +1,4 @@
-# 📷 회전캠을 이용한 비대면 감독 플랫폼, Camtact 
+# 📷 회전캠을 이용한 비대면 감독 플랫폼 Camtact 
 
 > Server: https://github.com/2020pingus/camtact_server
 >
@@ -197,4 +197,5 @@
 - [2020년 9월 16일 (수) 캡스톤 6차 회의](./meeting-record/20200916.md)
 - [2020년 9월 18일 (금) 캡스톤 7차 회의](./meeting-record/20200918.md)
 - [2020년 9월 22일 (화) 캡스톤 8차 회의](./meeting-record/20200922.md)
+- [2020년 9월 29일 (화) 캡스톤 9차 회의](./meeting-record/20200929.md)
 
