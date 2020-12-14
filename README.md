@@ -1,4 +1,4 @@
-# 📷 회전캠을 이용한 비대면 감독 플랫폼 Camtact 
+# 📷 원격 회전캠을 이용한 비대면 감독 플랫폼 Camtact 
 
 > Server: https://github.com/2020pingus/camtact_server
 >
@@ -73,8 +73,8 @@
 
 
 ## ⏰ 프로젝트 일정
-> 추후 업데이트 예정
-<img width="1157" alt="스크린샷 2020-09-30 오후 1 17 53" src="https://user-images.githubusercontent.com/39258902/94642536-59c6c380-031f-11eb-9730-fc85fc5c0f3f.png">
+<img width="1098" alt="스크린샷 2020-12-14 오후 4 18 03" src="https://user-images.githubusercontent.com/39258902/102051467-f3364980-3e27-11eb-927d-b50cf437fd11.png">
+
 
 
 - ##### 프로젝트 계획 (2020.08 ~ 2020.09)
@@ -167,25 +167,28 @@
 
 
 
-## ✏️ 브랜치 전략
-
-> 추후 업로드 예정
-
-
-
-</br>
-
-
-
 ## 📝 협업 규칙
 
-> 추후 업로드 예정
-
+- ##### Github Commit message
+  - https://blog.ull.im/engineering/2019/03/10/logs-on-git.html
 
 
 </br>
 
+## 💻 프로젝트 요약
 
+<img width="1777" alt="스크린샷 2020-12-14 오후 4 23 18" src="https://user-images.githubusercontent.com/39258902/102051926-af900f80-3e28-11eb-8db7-00658fc35be3.png">
+<img width="1775" alt="스크린샷 2020-12-14 오후 4 23 47" src="https://user-images.githubusercontent.com/39258902/102051959-c0408580-3e28-11eb-98d9-5d3dab2826e7.png">
+<img width="1165" alt="스크린샷 2020-12-14 오후 4 19 37" src="https://user-images.githubusercontent.com/39258902/102051606-2aa4f600-3e28-11eb-815b-dfd5505cacd6.png">
+<img width="1171" alt="스크린샷 2020-12-14 오후 4 20 11" src="https://user-images.githubusercontent.com/39258902/102051651-3e505c80-3e28-11eb-8695-2dafea072c45.png">
+<img width="1166" alt="스크린샷 2020-12-14 오후 4 20 20" src="https://user-images.githubusercontent.com/39258902/102051668-44ded400-3e28-11eb-944f-caf60e0a57ab.png">
+<img width="1168" alt="스크린샷 2020-12-14 오후 4 20 32" src="https://user-images.githubusercontent.com/39258902/102051679-4b6d4b80-3e28-11eb-9cc3-a0ec822fddc3.png">
+<img width="1169" alt="스크린샷 2020-12-14 오후 4 20 42" src="https://user-images.githubusercontent.com/39258902/102051690-51632c80-3e28-11eb-8780-8070012c5b9b.png">
+<img width="1167" alt="스크린샷 2020-12-14 오후 4 24 25" src="https://user-images.githubusercontent.com/39258902/102052006-d64e4600-3e28-11eb-97b6-a8c080be2019.png">
+<img width="1170" alt="스크린샷 2020-12-14 오후 4 21 15" src="https://user-images.githubusercontent.com/39258902/102051744-6475fc80-3e28-11eb-968f-6af84a00a8e8.png">
+
+
+</br>
 
 ## 📑 회의록
 
