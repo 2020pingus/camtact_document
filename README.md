@@ -4,9 +4,7 @@
 >
 > Hardware: https://github.com/2020pingus/camtact_hardware
 >
-> 응시자 클라이언트: https://github.com/2020pingus/camtact_student
->
-> 감독자 클라이언트: https://github.com/2020pingus/camtact_manager
+> 클라이언트: https://github.com/2020pingus/camtact_student
 
 
 
